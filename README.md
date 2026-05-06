@@ -85,3 +85,10 @@ Uncover actionable insights to reduce costs, minimize risks, improve supplier pe
 - Implement controls to reduce Maverick Spend
 - Add penalty clauses in SLAs for low OTIF suppliers
 - Deploy automated risk alert systems
+
+## 👨‍💼 Author
+
+**Made with passion for Data Analytics** ❤️  
+
+**Bá Khải**  
+Aspiring Data Analyst
