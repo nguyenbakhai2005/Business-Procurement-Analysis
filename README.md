@@ -1,4 +1,4 @@
-# Procurement Analytics Dashboard
+# Procurement Business Analytics 
 
 **End-to-End Data Analytics Project**  
 *SQL Analysis + Tableau Visualization + Business Reporting*
