@@ -1,4 +1,4 @@
-# Procurement Business Analytics 
+# Procurement Spend & Performance Analysis 
 
 **End-to-End Data Analytics Project**  
 *SQL Analysis + Tableau Visualization + Business Reporting*
