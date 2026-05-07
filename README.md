@@ -15,6 +15,17 @@ Uncover actionable insights to reduce costs, minimize risks, improve supplier pe
 - Executive Summary Report
 - Professional PowerPoint Presentation
 
+### Dashboard 1
+<img width="1619" height="894" alt="image" src="https://github.com/user-attachments/assets/d334882c-424d-4fd2-887e-7f18ea931444" />
+
+### Dashboard 2
+<img width="1600" height="895" alt="image" src="https://github.com/user-attachments/assets/1eef0b17-902f-4776-9524-b6c8dd8894c0" />
+
+### Dashboard 3
+<img width="1602" height="896" alt="image" src="https://github.com/user-attachments/assets/f7506f17-de82-4826-93f4-0d0c9cbf0235" />
+
+### Dashboard 4
+<img width="1601" height="897" alt="image" src="https://github.com/user-attachments/assets/1f38eceb-2a71-45b2-bf7e-4feaa1773a7b" />
 ## 📊 Dataset
 
 - **Rows:** 5,200 purchase orders
